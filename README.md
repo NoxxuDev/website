@@ -1,16 +1,16 @@
 <p align='center'>
   <b>🎨 Follow me here 🎨</b><br>  
-  <a href="https://discord.gg/kaneki">Discord</a> |
-  <a href="https://www.youtube.com/channel/UC-XII5SSqbMOF1UX3N0Gl8g">YouTube</a> |
-  <a href="https://github.com/KanekiWeb">Github</a><br><br>
-  <img src="https://repository-images.githubusercontent.com/415421595/c116844b-4471-4865-b26f-88a4ec2ee8cb" style="width: 80%">
+  <a href="https://discord.gg/hendev">Discord</a> |
+  <a href="https://www.youtube.com/@noxxu_">YouTube</a> |
+  <a href="https://github.com/NoxxuDev">Github</a><br><br>
+  <img src="https://www.zupimages.net/up/23/07/mejb.png" style="width: 80%">
 </p>
 
 ##   
 
 ### 🧰 Support
-- Email: <kaneki_pro@protonmail.com>
-- Discord: https://discord.gg/JuEeGweHrb
+- Email: <noxxu_pro@protonmail.com>
+- Discord: https://discord.gg/hendev
 
 ##  
 
